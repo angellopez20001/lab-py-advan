@@ -1,0 +1,106 @@
+Ejecutando el notebook con 1000000 elementos
+The prime sum below  1000000 is  37550402023  and the time taken is 1.4262181917826335
+The prime sum below  1000000 is  37550402023  and the time taken is 1.4 s ± 6.75 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.33440415064493817
+The prime sum below  1000000 is  37550402023  and the time taken is 221 ms ± 72.5 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.36804993947347003
+The prime sum below  1000000 is  37550402023  and the time taken is 221 ms ± 154 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.19757882754007974
+The prime sum below  1000000 is  37550402023  and the time taken is 0.21537955602010092
+The prime sum below  1000000 is  37550402023  and the time taken is 233 ms ± 34.8 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	0m16.950s
+user	0m16.766s
+sys	0m0.276s
+The prime sum below  1000000 is  37550402023  and the time taken is 1.4548778533935547
+The prime sum below  1000000 is  37550402023  and the time taken is 1.43 s ± 3.01 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.33464694023132324
+The prime sum below  1000000 is  37550402023  and the time taken is 223 ms ± 22.7 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.26044384638468426
+The prime sum below  1000000 is  37550402023  and the time taken is 223 ms ± 699 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.19562172889709473
+The prime sum below  1000000 is  37550402023  and the time taken is 0.2133800983428955
+The prime sum below  1000000 is  37550402023  and the time taken is 234 ms ± 279 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	0m16.788s
+user	0m17.257s
+sys	0m0.280s
+The prime sum below  1000000 is  37550402023  and the time taken is 1.4229988257090251
+The prime sum below  1000000 is  37550402023  and the time taken is 1.39 s ± 532 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.33460799853007
+The prime sum below  1000000 is  37550402023  and the time taken is 221 ms ± 68.9 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.21301349004109701
+The prime sum below  1000000 is  37550402023  and the time taken is 220 ms ± 202 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.19555139541625977
+The prime sum below  1000000 is  37550402023  and the time taken is 0.21421360969543457
+The prime sum below  1000000 is  37550402023  and the time taken is 230 ms ± 178 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	0m16.367s
+user	0m17.567s
+sys	0m0.363s
+The prime sum below  1000000 is  37550402023  and the time taken is 1.4204951127370198
+The prime sum below  1000000 is  37550402023  and the time taken is 1.39 s ± 287 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.3366889953613281
+The prime sum below  1000000 is  37550402023  and the time taken is 223 ms ± 295 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.2178074518839518
+The prime sum below  1000000 is  37550402023  and the time taken is 221 ms ± 270 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  1000000 is  37550402023  and the time taken is 0.19600184758504233
+The prime sum below  1000000 is  37550402023  and the time taken is 0.2164323329925537
+The prime sum below  1000000 is  37550402023  and the time taken is 234 ms ± 120 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	0m16.387s
+user	0m18.149s
+sys	0m0.474s
+Ejecutando el notebook con 10000000 elementos
+The prime sum below  10000000 is  3203324994356  and the time taken is 37.88906184832255
+The prime sum below  10000000 is  3203324994356  and the time taken is 35.7 s ± 14.9 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.9947243531545005
+The prime sum below  10000000 is  3203324994356  and the time taken is 3 s ± 230 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.594489494959513
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.98 s ± 795 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 0.5521984895070394
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.9190407594045005
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.1 s ± 1.16 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	5m24.883s
+user	5m27.875s
+sys	0m1.453s
+The prime sum below  10000000 is  3203324994356  and the time taken is 36.918787240982056
+The prime sum below  10000000 is  3203324994356  and the time taken is 35.7 s ± 2.81 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.1253066062927246
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.12 s ± 9.26 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.1802194118499756
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.08 s ± 2.51 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 0.5536206563313802
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.9752766291300454
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.15 s ± 4.06 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	5m19.156s
+user	5m25.197s
+sys	0m2.516s
+The prime sum below  10000000 is  3203324994356  and the time taken is 36.90134485562643
+The prime sum below  10000000 is  3203324994356  and the time taken is 35.8 s ± 113 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.0010406970977783
+The prime sum below  10000000 is  3203324994356  and the time taken is 3 s ± 361 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 1.3924599488576253
+The prime sum below  10000000 is  3203324994356  and the time taken is 3 s ± 5.99 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 0.5522499879201254
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.931173086166382
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.12 s ± 7.84 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	5m15.233s
+user	5m26.293s
+sys	0m1.722s
+The prime sum below  10000000 is  3203324994356  and the time taken is 37.94779761632284
+The prime sum below  10000000 is  3203324994356  and the time taken is 36.8 s ± 188 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.0234169165293374
+The prime sum below  10000000 is  3203324994356  and the time taken is 3 s ± 1.2 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 1.2610695362091064
+The prime sum below  10000000 is  3203324994356  and the time taken is 3 s ± 1.38 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+The prime sum below  10000000 is  3203324994356  and the time taken is 0.5512786706288656
+The prime sum below  10000000 is  3203324994356  and the time taken is 2.9507172107696533
+The prime sum below  10000000 is  3203324994356  and the time taken is 3.12 s ± 57.1 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+real	5m20.690s
+user	5m33.216s
+sys	0m1.915s
