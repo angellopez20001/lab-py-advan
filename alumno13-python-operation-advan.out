@@ -1,0 +1,257 @@
+Ejecutando el notebook con 100000000 elementos
+Time taken by reduction operation using a function: 10.2 s ± 81.4 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49997129.49441985
+
+Time taken by reduction operation using numpy.sum(): 40.3 ms ± 1.26 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 49997129.49442606 
+ 
+Time taken by reduction operation using a function: 12.50907826423645
+And the result of the sum of numbers in the range [0, value) is: 50000728.41328369
+
+Time taken by reduction operation using a function: 10.5 s ± 161 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50000728.41328369
+
+Time taken by reduction operation using numpy.sum(): 39.7 ms ± 13.2 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50000728.41329228 
+ 
+Time taken by reduction operation using a function: 104 ms ± 27.9 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50003607.44999492
+
+Time taken by reduction operation using a function: 26 ms ± 208 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50003607.449991114
+
+Time taken by reduction operation using numpy.sum(): 39.7 ms ± 8.07 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50003607.449990936 
+ 
+
+real	1m44.521s
+user	1m44.235s
+sys	0m0.604s
+Time taken by reduction operation using a function: 10.4 s ± 101 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50000708.20415894
+
+Time taken by reduction operation using numpy.sum(): 38.8 ms ± 10.2 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50000708.204151444 
+ 
+Time taken by reduction operation using a function: 6.506562948226929
+And the result of the sum of numbers in the range [0, value) is: 50005879.68350087
+
+Time taken by reduction operation using a function: 10.6 s ± 39.3 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50005879.683470525
+
+Time taken by reduction operation using numpy.sum(): 39.5 ms ± 4.55 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50005879.68349288 
+ 
+Time taken by reduction operation using a function: 104 ms ± 18.4 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49996114.21294777
+
+Time taken by reduction operation using a function: 26 ms ± 41.2 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49996114.21295868
+
+Time taken by reduction operation using numpy.sum(): 39.6 ms ± 9.42 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 49996114.21295776 
+ 
+
+real	1m37.892s
+user	1m43.629s
+sys	0m0.622s
+Time taken by reduction operation using a function: 10.1 s ± 85.2 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50000476.386369586
+
+Time taken by reduction operation using numpy.sum(): 39.2 ms ± 20.9 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50000476.38636858 
+ 
+Time taken by reduction operation using a function: 3.5608625411987305
+And the result of the sum of numbers in the range [0, value) is: 50003414.607106894
+
+Time taken by reduction operation using a function: 10.4 s ± 17 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50003414.60710481
+
+Time taken by reduction operation using numpy.sum(): 39.4 ms ± 6.18 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50003414.60710526 
+ 
+Time taken by reduction operation using a function: 104 ms ± 35 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50001918.63128243
+
+Time taken by reduction operation using a function: 26 ms ± 182 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50001918.6312512
+
+Time taken by reduction operation using numpy.sum(): 39.4 ms ± 25.7 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50001918.63125053 
+ 
+
+real	1m33.534s
+user	1m42.301s
+sys	0m0.644s
+Time taken by reduction operation using a function: 10.2 s ± 96 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49999081.7120655
+
+Time taken by reduction operation using numpy.sum(): 39.3 ms ± 3.64 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 49999081.71205897 
+ 
+Time taken by reduction operation using a function: 2.63427734375
+And the result of the sum of numbers in the range [0, value) is: 50002658.83165873
+
+Time taken by reduction operation using a function: 10.4 s ± 73.8 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 50002658.83167887
+
+Time taken by reduction operation using numpy.sum(): 39.6 ms ± 3.17 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 50002658.83165749 
+ 
+Time taken by reduction operation using a function: 104 ms ± 197 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49996945.64237227
+
+Time taken by reduction operation using a function: 25.9 ms ± 60.1 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 49996945.642369814
+
+Time taken by reduction operation using numpy.sum(): 39.6 ms ± 1.66 μs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Now, the result using numpy.sum(): 49996945.64236732 
+ 
+
+real	1m32.884s
+user	1m42.886s
+sys	0m0.626s
+Ejecutando el notebook con 1000000000 elementos
+Time taken by reduction operation using a function: 1min 40s ± 993 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500016728.2393648
+
+Time taken by reduction operation using numpy.sum(): 397 ms ± 52.7 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500016728.2395616 
+ 
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mMemoryError[0m                               Traceback (most recent call last)
+Cell [0;32mIn[1], line 45[0m
+[1;32m     40[0m     execution_time [38;5;241m=[39m end_time [38;5;241m-[39m start_time
+[1;32m     41[0m     [38;5;28;01mreturn[39;00m total_sum, execution_time
+[0;32m---> 45[0m result, tiempo [38;5;241m=[39m parallel_reduction(num_processes,X)
+[1;32m     47[0m [38;5;28mprint[39m([38;5;124m"[39m[38;5;124mTime taken by reduction operation using a function:[39m[38;5;124m"[39m, tiempo)
+[1;32m     49[0m [38;5;28mprint[39m([38;5;124mf[39m[38;5;124m"[39m[38;5;124mAnd the result of the sum of numbers in the range [0, value) is: [39m[38;5;132;01m{[39;00mresult[38;5;132;01m}[39;00m[38;5;130;01m\n[39;00m[38;5;124m"[39m)
+
+Cell [0;32mIn[1], line 35[0m, in [0;36mparallel_reduction[0;34m(num_processes, X)[0m
+[1;32m     33[0m [38;5;28;01mwith[39;00m Pool(processes[38;5;241m=[39mnum_processes) [38;5;28;01mas[39;00m pool:
+[1;32m     34[0m     start_time [38;5;241m=[39m time[38;5;241m.[39mtime()
+[0;32m---> 35[0m     partial_results [38;5;241m=[39m pool[38;5;241m.[39mmap(reduc_operation, chunks)
+[1;32m     36[0m     end_time [38;5;241m=[39m time[38;5;241m.[39mtime()
+[1;32m     38[0m     total_sum [38;5;241m=[39m [38;5;28msum[39m(partial_results)
+
+File [0;32m/nas/hdd-0/modules/anaconda3-2025/lib/python3.13/multiprocessing/pool.py:367[0m, in [0;36mPool.map[0;34m(self, func, iterable, chunksize)[0m
+[1;32m    362[0m [38;5;28;01mdef[39;00m[38;5;250m [39m[38;5;21mmap[39m([38;5;28mself[39m, func, iterable, chunksize[38;5;241m=[39m[38;5;28;01mNone[39;00m):
+[1;32m    363[0m [38;5;250m    [39m[38;5;124;03m'''[39;00m
+[1;32m    364[0m [38;5;124;03m    Apply `func` to each element in `iterable`, collecting the results[39;00m
+[1;32m    365[0m [38;5;124;03m    in a list that is returned.[39;00m
+[1;32m    366[0m [38;5;124;03m    '''[39;00m
+[0;32m--> 367[0m     [38;5;28;01mreturn[39;00m [38;5;28mself[39m[38;5;241m.[39m_map_async(func, iterable, mapstar, chunksize)[38;5;241m.[39mget()
+
+File [0;32m/nas/hdd-0/modules/anaconda3-2025/lib/python3.13/multiprocessing/pool.py:774[0m, in [0;36mApplyResult.get[0;34m(self, timeout)[0m
+[1;32m    772[0m     [38;5;28;01mreturn[39;00m [38;5;28mself[39m[38;5;241m.[39m_value
+[1;32m    773[0m [38;5;28;01melse[39;00m:
+[0;32m--> 774[0m     [38;5;28;01mraise[39;00m [38;5;28mself[39m[38;5;241m.[39m_value
+
+File [0;32m/nas/hdd-0/modules/anaconda3-2025/lib/python3.13/multiprocessing/pool.py:540[0m, in [0;36mPool._handle_tasks[0;34m(taskqueue, put, outqueue, pool, cache)[0m
+[1;32m    538[0m     [38;5;28;01mbreak[39;00m
+[1;32m    539[0m [38;5;28;01mtry[39;00m:
+[0;32m--> 540[0m     put(task)
+[1;32m    541[0m [38;5;28;01mexcept[39;00m [38;5;167;01mException[39;00m [38;5;28;01mas[39;00m e:
+[1;32m    542[0m     job, idx [38;5;241m=[39m task[:[38;5;241m2[39m]
+
+File [0;32m/nas/hdd-0/modules/anaconda3-2025/lib/python3.13/multiprocessing/connection.py:206[0m, in [0;36m_ConnectionBase.send[0;34m(self, obj)[0m
+[1;32m    204[0m [38;5;28mself[39m[38;5;241m.[39m_check_closed()
+[1;32m    205[0m [38;5;28mself[39m[38;5;241m.[39m_check_writable()
+[0;32m--> 206[0m [38;5;28mself[39m[38;5;241m.[39m_send_bytes(_ForkingPickler[38;5;241m.[39mdumps(obj))
+
+File [0;32m/nas/hdd-0/modules/anaconda3-2025/lib/python3.13/multiprocessing/reduction.py:51[0m, in [0;36mForkingPickler.dumps[0;34m(cls, obj, protocol)[0m
+[1;32m     48[0m [38;5;129m@classmethod[39m
+[1;32m     49[0m [38;5;28;01mdef[39;00m[38;5;250m [39m[38;5;21mdumps[39m([38;5;28mcls[39m, obj, protocol[38;5;241m=[39m[38;5;28;01mNone[39;00m):
+[1;32m     50[0m     buf [38;5;241m=[39m io[38;5;241m.[39mBytesIO()
+[0;32m---> 51[0m     [38;5;28mcls[39m(buf, protocol)[38;5;241m.[39mdump(obj)
+[1;32m     52[0m     [38;5;28;01mreturn[39;00m buf[38;5;241m.[39mgetbuffer()
+
+[0;31mMemoryError[0m: 
+
+real	7m22.347s
+user	7m0.276s
+sys	0m4.513s
+Time taken by reduction operation using a function: 1min 44s ± 1.34 s per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500023820.23677534
+
+Time taken by reduction operation using numpy.sum(): 400 ms ± 42.3 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500023820.2368661 
+ 
+Time taken by reduction operation using a function: 169.93054103851318
+And the result of the sum of numbers in the range [0, value) is: 499989457.1039212
+
+Time taken by reduction operation using a function: 1min 45s ± 883 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 499989457.10452527
+
+Time taken by reduction operation using numpy.sum(): 408 ms ± 72.7 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 499989457.1041463 
+ 
+Time taken by reduction operation using a function: 1.04 s ± 221 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500001178.48884684
+
+Time taken by reduction operation using a function: 258 ms ± 171 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500001178.48882896
+
+Time taken by reduction operation using numpy.sum(): 398 ms ± 78.6 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500001178.48892474 
+ 
+
+real	20m3.442s
+user	16m55.224s
+sys	0m18.566s
+Time taken by reduction operation using a function: 1min 41s ± 1.92 s per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500001816.7140694
+
+Time taken by reduction operation using numpy.sum(): 421 ms ± 508 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500001816.71454245 
+ 
+Time taken by reduction operation using a function: 74.2043251991272
+And the result of the sum of numbers in the range [0, value) is: 499996104.3186524
+
+Time taken by reduction operation using a function: 1min 44s ± 225 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 499996104.3183317
+
+Time taken by reduction operation using numpy.sum(): 409 ms ± 815 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 499996104.31866324 
+ 
+Time taken by reduction operation using a function: 1.04 s ± 1.29 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500006884.7787729
+
+Time taken by reduction operation using a function: 258 ms ± 319 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500006884.7783134
+
+Time taken by reduction operation using numpy.sum(): 391 ms ± 149 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500006884.7783738 
+ 
+
+real	16m47.180s
+user	16m42.430s
+sys	0m13.748s
+Time taken by reduction operation using a function: 1min 43s ± 856 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 499992777.7714695
+
+Time taken by reduction operation using numpy.sum(): 395 ms ± 83.1 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 499992777.7719376 
+ 
+Time taken by reduction operation using a function: 44.468008518218994
+And the result of the sum of numbers in the range [0, value) is: 500005068.4801592
+
+Time taken by reduction operation using a function: 1min 43s ± 167 ms per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 500005068.4800414
+
+Time taken by reduction operation using numpy.sum(): 402 ms ± 139 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 500005068.48018754 
+ 
+Time taken by reduction operation using a function: 1.04 s ± 466 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 499992909.7018789
+
+Time taken by reduction operation using a function: 259 ms ± 150 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+And the result of the sum of numbers in the range [0, value) is: 499992909.7017483
+
+Time taken by reduction operation using numpy.sum(): 393 ms ± 96 μs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Now, the result using numpy.sum(): 499992909.7017691 
+ 
+
+real	15m51.975s
+user	16m34.039s
+sys	0m10.213s
